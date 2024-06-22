@@ -10301,6 +10301,7 @@ dependencies = [
  "pallet-utility",
  "parity-scale-codec",
  "paste",
+ "polkavm",
  "pretty_assertions",
  "rand",
  "rand_pcg",
